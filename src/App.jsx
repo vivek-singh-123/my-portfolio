@@ -1,11 +1,28 @@
-import React from 'react'
+import React from "react";
+import Navbar from "./components/Navbar";
+import Home from "./components/Home";
+import About from "./components/About";
+import Skills from "./components/Skills";
+import Experiance from "./components/Experiance";
+import Footer from "./components/Footer";
+import Contact from "./components/Contact";
+import { Toaster } from "react-hot-toast";
 
 function App() {
   return (
-    <div class="text-3xl font-bold underline">
-    Hey, I'm vivek & going to build my portfolio website!
-    </div>
-  )
+    <>
+      <div>
+        <Navbar />
+        <Home />
+        <About />
+        <Skills />
+        <Experiance />
+        <Contact />
+        <Footer />
+      </div>
+      <Toaster />
+    </>
+  );
 }
 
-export default App
+export default App;
