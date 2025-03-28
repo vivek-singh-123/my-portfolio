@@ -30,7 +30,7 @@ function Footer() {
                             </ul>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
               <p className="text-sm">
-                &copy; 2025 Your Company. All rights reserved.
+                &copy; 2025, All rights reserved.
               </p>
               <p className="text-sm">Vivek Singh</p>
             </div>
