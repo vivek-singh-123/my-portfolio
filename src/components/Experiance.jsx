@@ -42,7 +42,7 @@ function Experiance() {
         <a>React JS</a><br/>
         <a>JavaScript</a><br/>
         <a>Node JS</a><br/>
-        <a>Docker</a><br/>
+        <a>Docker/Podman</a><br/>
         <a>Shell Scripting</a><br/>
         <a>Jenkins</a><br/>
         <a>GitHub Webhooks</a><br/>
